@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://13kailouis.github.io/wefluence-ugc-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -45,6 +45,12 @@
   <url>
     <loc>https://13kailouis.github.io/wefluence-ugc-marketing/panduan-lengkap-strategi-cara-menjalankan-kampanye-ugc.html</loc>
     <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://13kailouis.github.io/wefluence-ugc-marketing/cara-mengukur-performa-kampanye-konten-secara-akurat.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
