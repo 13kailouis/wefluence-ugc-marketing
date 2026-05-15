@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://13kailouis.github.io/wefluence-ugc-marketing/</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -333,6 +333,12 @@
   <url>
     <loc>https://13kailouis.github.io/wefluence-ugc-marketing/roi-influencer-marketing-indonesia-ulasan.html</loc>
     <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://13kailouis.github.io/wefluence-ugc-marketing/ugc-marketing-indonesia.html</loc>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
